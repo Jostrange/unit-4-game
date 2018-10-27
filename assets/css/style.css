@@ -1,0 +1,77 @@
+.game-header{
+    background-color: black;
+    color: lavender;
+    width: 350px;
+    margin-left: 131px;
+    margin-top: 11px;
+
+
+}
+
+.instructions{
+    background-color: blueviolet;
+    height: 496px;
+    width: 591px;
+    text-align: left;
+    padding-left: 13px;
+    padding-top: 14px;
+    padding-right: 13px;
+}
+
+.scoreboard{
+    width: 352px;
+    height: 153px;
+    background-color: purple;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 35px;
+}
+
+.body {
+    background-image: url("../images/soft_kill_@2X.png");
+    width:100%;
+    }
+
+.score-header{
+    width: 585px;
+    height: 36px;
+    background-color: rgb(127, 161, 255);
+    font-weight: bold;
+    text-align: center;
+}
+
+.scoreboard-bottom{
+    width: 575px;
+    height: 100px;
+    font-weight: bold;
+    font-size: 24px;
+    color: blueviolet;
+    background-color: black;
+    text-align: center;
+}
+.game-performance {
+    width: 230px;
+    height: 153px;
+    background-color: grey;
+    float: right;
+    margin-left: 10px;
+    font-size: 28px;
+    text-align: center;
+
+}
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: 68px;
+    margin-left: 440px;
+    padding-bottom: 9px;
+}
+
+button, input, optgroup, select, textarea {
+    margin: 4px;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
